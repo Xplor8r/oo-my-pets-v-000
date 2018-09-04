@@ -28,8 +28,6 @@ class Owner
   end
   
   def buy_fish(name)
-  
-
     name = Fish.name
   end
   
